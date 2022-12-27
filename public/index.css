@@ -1,0 +1,21 @@
+body {
+  margin: 0
+}
+
+#root {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#button-box {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  bottom: 2%;
+}
+
+#button-box button {
+  width: 7%;
+}
